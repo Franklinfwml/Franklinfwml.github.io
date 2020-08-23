@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<sites>
+ 
+   <servidor>
+      <alias>VIVO-CEC</alias>
+      <caminho>http://192.168.210.237:8091/Zaap</caminho>
+  </servidor>
+  
+   <servidor>
+      <alias>VIVO-PA´S TRADICIONAIS B2C</alias>
+      <caminho>http://vcom-serv9:8091/Zaap</caminho>
+  </servidor> 
+  
+    <servidor>
+      <alias>VIVO1-B2B</alias>
+      <caminho>http://vcom-serv5:8092/Zaap</caminho>
+  </servidor> 
+  
+      <servidor>
+      <alias>VIVO2-B2B</alias>
+      <caminho>http://vcom-serv5:8092/Zaap</caminho>
+  </servidor> 
+  
+      <servidor>
+      <alias>VIVO-BASE6</alias>
+      <caminho>http://192.168.210.239:88/Zaap/</caminho>
+  </servidor> 
+  
+  <!--
+        <servidor>
+      <alias>NUBANK</alias>
+      <caminho>http://192.168.210.165:93/Zaap_2</caminho>
+  </servidor>  
+  -->
+        <servidor>
+      <alias>NUBANK</alias>
+      <caminho>http://192.168.210.136:91/Zaap</caminho>
+  </servidor> 
+  
+      <servidor>
+      <alias>TIM</alias>
+      <caminho>http://192.168.210.149:8091/zaap</caminho>
+</servidor>
+
+
+  
+        <servidor>
+      <alias>NET</alias>
+      <caminho>http://192.168.210.139:89/Zaap</caminho>
+  </servidor>  
+  
+
+ 
+ 
+  <!--
+        <servidor>
+      <alias>NET-2</alias>
+      <caminho>http://192.168.210.243:91/Zaap</caminho>
+  </servidor>  
+  -->
+      <servidor>
+      <alias>TRIBANCO</alias>
+      <caminho>http://vcom-serv6:89/Zaap</caminho>
+  </servidor>  
+
+ 
+</sites>
